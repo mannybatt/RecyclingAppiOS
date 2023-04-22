@@ -6,7 +6,7 @@ This was created as a possible tool for the City of Orlando to utillize in a new
 <br><br>
 
 <a href="https://www.youtube.com/embed/92SjzPKmCB4" target="_blank">
- <img src="https://i3.ytimg.com/vi/92SjzPKmCB4/maxresdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+ <img src="https://i3.ytimg.com/vi/92SjzPKmCB4/maxresdefault.jpg" alt="Watch the video" width="640" height="480" border="10" />
 </a>
 
 https://www.youtube.com/embed/92SjzPKmCB4
